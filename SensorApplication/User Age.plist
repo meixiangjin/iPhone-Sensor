@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <string>More than 1 year</string>
+        <string>More than 2 years</string>
+        <string>More than 3 years</string>
+        <string>More than 4 years</string>
+        <string>More than 5 years</string>
+        <string>More than 6 years</string>
+        <string>More than 7 years</string>
+        <string>More than 8 years</string>
+        <string>More than 9 years</string>
+        <string>More than 10 years</string>
+    </array>
+</plist>
